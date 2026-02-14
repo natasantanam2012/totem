@@ -1,0 +1,10 @@
+{
+  "burgers": [
+    {"id": 1, "nombre": "Cuarto de Libra", "precio": 5500, "img": "assets/img/burger1.png"},
+    {"id": 2, "nombre": "Big Mac", "precio": 6000, "img": "assets/img/burger2.png"}
+  ],
+  "drinks": [
+    {"id": 3, "nombre": "Coca Cola L", "precio": 1500, "img": "assets/img/drink1.png"},
+    {"id": 4, "nombre": "Agua Mineral", "precio": 1200, "img": "assets/img/drink2.png"}
+  ]
+}
